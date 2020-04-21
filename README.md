@@ -11,6 +11,7 @@ For linux user you have to use sudo command at the begining.
 2.docker -v
 3.docker info
 4.docker --help
+5.after installing docker add docker to docker group
 5.docker login
 ============================
 
@@ -34,3 +35,10 @@ Docker System
 1.docker stats
 2.docker system df
 3.docker system prune
+  
+  ===================
+  Docker container to expose on external port 
+  
+    
+    
+    
